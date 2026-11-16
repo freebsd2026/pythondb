@@ -182,5 +182,8 @@ class MemoryStorage(Storage):
     def write(self, data: dict[str, dict[str, Any]]):
         self.memory = data
 ```
-<img src="../images/001.jpg" height="1100" width="850" />
-<img src="../images/002.jpg" height="1100" width="850" />
+
+<img src="../images/001.jpg" width="900" height="1100">
+<img src="../images/002.jpg" width="900" height="1100">
+<img src="../images/003.jpg" width="900" height="1100">
+<img src="../images/004.jpg" width="900" height="1100">
