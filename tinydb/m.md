@@ -183,3 +183,4 @@ class MemoryStorage(Storage):
         self.memory = data
 ```
 <img src="../images/001.jpg" height="1000" width="800" />
+<img src="../images/002.jpg" height="1000" width="800" />
